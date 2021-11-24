@@ -1,2 +1,2 @@
-# JS Graphs
-This project is a playground on Graphs using Javascript
+# JS Trie
+This project is a playground on Trie data structure
